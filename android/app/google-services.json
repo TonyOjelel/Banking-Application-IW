@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "655236998377",
+    "project_id": "guardian-iw",
+    "storage_bucket": "guardian-iw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655236998377:android:a9aacfc889159435003c78",
+        "android_client_info": {
+          "package_name": "com.flutterflow.finwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655236998377-jndsn7s1l1ou3reo07560tpkbv5oooea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtGh85Zf88SJ1IxHZh7ishdd9oFvdYGJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655236998377-jndsn7s1l1ou3reo07560tpkbv5oooea.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "655236998377-sggr8aftd1j1jc188v7fbul9a2781j2k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.finwallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
