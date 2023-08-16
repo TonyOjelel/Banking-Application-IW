@@ -386,7 +386,7 @@ class _PaymentDetailsWidgetState extends State<PaymentDetailsWidget> {
                                                 Duration(milliseconds: 500),
                                             imageUrl: valueOrDefault<String>(
                                               containerUsersRecord.photoUrl,
-                                              'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/sample-app-e-comm-3oxq8y/assets/hszmaloprc7a/Mia%20Deaven.jpg',
+                                              'https://images.unsplash.com/photo-1691576820852-84d6fbea59fb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2450&q=80',
                                             ),
                                             fit: BoxFit.fitWidth,
                                           ),

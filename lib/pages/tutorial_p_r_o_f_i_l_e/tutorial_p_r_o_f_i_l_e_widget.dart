@@ -78,13 +78,6 @@ class _TutorialPROFILEWidgetState extends State<TutorialPROFILEWidget> {
                 mainAxisSize: MainAxisSize.max,
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  if (Theme.of(context).brightness == Brightness.dark)
-                    Image.asset(
-                      'assets/images/finWallet_logo_landscape.png',
-                      width: 170.0,
-                      height: 60.0,
-                      fit: BoxFit.fitWidth,
-                    ),
                   if (!(Theme.of(context).brightness == Brightness.dark))
                     Image.asset(
                       'assets/images/finWallet_logo_landscapeDark@3x.png',

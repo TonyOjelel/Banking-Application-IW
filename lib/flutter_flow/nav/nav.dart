@@ -247,6 +247,11 @@ GoRouter createRouter(AppStateNotifier appStateNotifier) => GoRouter(
           name: 'profilepage',
           path: '/profilepage',
           builder: (context, params) => ProfilepageWidget(),
+        ),
+        FFRoute(
+          name: 'List02Products',
+          path: '/list02Products',
+          builder: (context, params) => List02ProductsWidget(),
         )
       ].map((r) => r.toRoute(appStateNotifier)).toList(),
     );

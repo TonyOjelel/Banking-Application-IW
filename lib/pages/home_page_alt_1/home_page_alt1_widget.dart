@@ -135,7 +135,7 @@ class _HomePageAlt1WidgetState extends State<HomePageAlt1Widget>
                                 shape: BoxShape.circle,
                               ),
                               child: Image.asset(
-                                'assets/images/avatar.png',
+                                'assets/images/innocent1.jpg',
                               ),
                             ),
                           ),
@@ -165,7 +165,7 @@ class _HomePageAlt1WidgetState extends State<HomePageAlt1Widget>
                                     4.0, 0.0, 0.0, 0.0),
                                 child: Text(
                                   FFLocalizations.of(context).getText(
-                                    'izgc0c6r' /* Andrew */,
+                                    'izgc0c6r' /* Innocent */,
                                   ),
                                   style: FlutterFlowTheme.of(context)
                                       .headlineSmall
@@ -526,7 +526,7 @@ class _HomePageAlt1WidgetState extends State<HomePageAlt1Widget>
                                     children: [
                                       Text(
                                         FFLocalizations.of(context).getText(
-                                          'g7t9krj7' /* Go Far Rewards */,
+                                          'g7t9krj7' /* Netflix */,
                                         ),
                                         style: FlutterFlowTheme.of(context)
                                             .headlineSmall,
@@ -556,7 +556,7 @@ class _HomePageAlt1WidgetState extends State<HomePageAlt1Widget>
                                   children: [
                                     Text(
                                       FFLocalizations.of(context).getText(
-                                        'bj5qnrj5' /* $50.00 */,
+                                        'bj5qnrj5' /* $58.00 */,
                                       ),
                                       textAlign: TextAlign.end,
                                       style: FlutterFlowTheme.of(context)
@@ -572,7 +572,7 @@ class _HomePageAlt1WidgetState extends State<HomePageAlt1Widget>
                                           0.0, 4.0, 0.0, 0.0),
                                       child: Text(
                                         FFLocalizations.of(context).getText(
-                                          'd1n5mbq7' /* Hello World */,
+                                          'd1n5mbq7' /* 07/08/2023 */,
                                         ),
                                         textAlign: TextAlign.end,
                                         style: FlutterFlowTheme.of(context)
@@ -637,7 +637,7 @@ class _HomePageAlt1WidgetState extends State<HomePageAlt1Widget>
                                     children: [
                                       Text(
                                         FFLocalizations.of(context).getText(
-                                          '2thn73jc' /* Go Far Rewards */,
+                                          '2thn73jc' /* Apple Stock */,
                                         ),
                                         style: FlutterFlowTheme.of(context)
                                             .headlineSmall,
@@ -667,7 +667,7 @@ class _HomePageAlt1WidgetState extends State<HomePageAlt1Widget>
                                   children: [
                                     Text(
                                       FFLocalizations.of(context).getText(
-                                        'ld7s2fpn' /* $50.00 */,
+                                        'ld7s2fpn' /* $500.00 */,
                                       ),
                                       textAlign: TextAlign.end,
                                       style: FlutterFlowTheme.of(context)
@@ -683,7 +683,7 @@ class _HomePageAlt1WidgetState extends State<HomePageAlt1Widget>
                                           0.0, 4.0, 0.0, 0.0),
                                       child: Text(
                                         FFLocalizations.of(context).getText(
-                                          'ft8bu1we' /* Hello World */,
+                                          'ft8bu1we' /* 02/08/2023 */,
                                         ),
                                         textAlign: TextAlign.end,
                                         style: FlutterFlowTheme.of(context)
@@ -748,7 +748,7 @@ class _HomePageAlt1WidgetState extends State<HomePageAlt1Widget>
                                     children: [
                                       Text(
                                         FFLocalizations.of(context).getText(
-                                          '8t6ddwco' /* Go Far Rewards */,
+                                          '8t6ddwco' /* Amazon */,
                                         ),
                                         style: FlutterFlowTheme.of(context)
                                             .headlineSmall,
@@ -778,7 +778,7 @@ class _HomePageAlt1WidgetState extends State<HomePageAlt1Widget>
                                   children: [
                                     Text(
                                       FFLocalizations.of(context).getText(
-                                        'qmjqp9a6' /* $50.00 */,
+                                        'qmjqp9a6' /* $75.00 */,
                                       ),
                                       textAlign: TextAlign.end,
                                       style: FlutterFlowTheme.of(context)
@@ -794,7 +794,7 @@ class _HomePageAlt1WidgetState extends State<HomePageAlt1Widget>
                                           0.0, 4.0, 0.0, 0.0),
                                       child: Text(
                                         FFLocalizations.of(context).getText(
-                                          '9qc797et' /* Hello World */,
+                                          '9qc797et' /* 27/07/2023 */,
                                         ),
                                         textAlign: TextAlign.end,
                                         style: FlutterFlowTheme.of(context)
@@ -859,7 +859,7 @@ class _HomePageAlt1WidgetState extends State<HomePageAlt1Widget>
                                     children: [
                                       Text(
                                         FFLocalizations.of(context).getText(
-                                          '8pdmehj2' /* Go Far Rewards */,
+                                          '8pdmehj2' /* Alibaba */,
                                         ),
                                         style: FlutterFlowTheme.of(context)
                                             .headlineSmall,
@@ -889,7 +889,7 @@ class _HomePageAlt1WidgetState extends State<HomePageAlt1Widget>
                                   children: [
                                     Text(
                                       FFLocalizations.of(context).getText(
-                                        '53m2u0s2' /* $50.00 */,
+                                        '53m2u0s2' /* $60.00 */,
                                       ),
                                       textAlign: TextAlign.end,
                                       style: FlutterFlowTheme.of(context)
@@ -905,7 +905,7 @@ class _HomePageAlt1WidgetState extends State<HomePageAlt1Widget>
                                           0.0, 4.0, 0.0, 0.0),
                                       child: Text(
                                         FFLocalizations.of(context).getText(
-                                          'aks5zz4f' /* Hello World */,
+                                          'aks5zz4f' /* 23/07/2023 */,
                                         ),
                                         textAlign: TextAlign.end,
                                         style: FlutterFlowTheme.of(context)

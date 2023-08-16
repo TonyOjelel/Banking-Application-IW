@@ -90,7 +90,7 @@ class _HomePageAltWidgetState extends State<HomePageAltWidget> {
                                   shape: BoxShape.circle,
                                 ),
                                 child: Image.asset(
-                                  'assets/images/avatar.png',
+                                  'assets/images/innocent1.jpg',
                                 ),
                               ),
                             ),
@@ -120,7 +120,7 @@ class _HomePageAltWidgetState extends State<HomePageAltWidget> {
                                       4.0, 0.0, 0.0, 0.0),
                                   child: Text(
                                     FFLocalizations.of(context).getText(
-                                      'v74pa882' /* Andrew */,
+                                      'v74pa882' /* Innocent */,
                                     ),
                                     style: FlutterFlowTheme.of(context)
                                         .headlineSmall
@@ -695,7 +695,7 @@ class _HomePageAltWidgetState extends State<HomePageAltWidget> {
                                         shape: BoxShape.circle,
                                       ),
                                       child: Image.asset(
-                                        'assets/images/user_2@2x.png',
+                                        'assets/images/innocent1.jpg',
                                       ),
                                     ),
                                   ],
@@ -713,7 +713,7 @@ class _HomePageAltWidgetState extends State<HomePageAltWidget> {
                                       children: [
                                         Text(
                                           FFLocalizations.of(context).getText(
-                                            'b8oj0pck' /* Team Name */,
+                                            'b8oj0pck' /* Innocent */,
                                           ),
                                           style: FlutterFlowTheme.of(context)
                                               .titleMedium
@@ -762,7 +762,7 @@ class _HomePageAltWidgetState extends State<HomePageAltWidget> {
                                                   0.0, 4.0, 4.0, 0.0),
                                           child: Text(
                                             FFLocalizations.of(context).getText(
-                                              'jzfejglt' /* Head of Design */,
+                                              'jzfejglt' /* Owner */,
                                             ),
                                             textAlign: TextAlign.start,
                                             style: FlutterFlowTheme.of(context)
@@ -782,7 +782,7 @@ class _HomePageAltWidgetState extends State<HomePageAltWidget> {
                                             child: Text(
                                               FFLocalizations.of(context)
                                                   .getText(
-                                                'zm0lhm2a' /* [Time Stamp] */,
+                                                'zm0lhm2a' /* 15/08/2023 */,
                                               ),
                                               textAlign: TextAlign.end,
                                               style: TextStyle(

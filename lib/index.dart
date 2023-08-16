@@ -43,3 +43,4 @@ export '/pages/home_page_alt_1/home_page_alt1_widget.dart'
 export '/pages/budget_d_e_l_e_t_e/budget_d_e_l_e_t_e_widget.dart'
     show BudgetDELETEWidget;
 export '/pages/profilepage/profilepage_widget.dart' show ProfilepageWidget;
+export '/list02_products/list02_products_widget.dart' show List02ProductsWidget;

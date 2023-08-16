@@ -77,7 +77,7 @@ class _EditProfileWidgetState extends State<EditProfileWidget> {
               hoverColor: Colors.transparent,
               highlightColor: Colors.transparent,
               onTap: () async {
-                context.pop();
+                context.pushNamed('homePage');
               },
               child: Icon(
                 Icons.chevron_left_rounded,

@@ -121,7 +121,7 @@ class _MYProfilePageWidgetState extends State<MYProfilePageWidget> {
                                       shape: BoxShape.circle,
                                     ),
                                     child: Image.asset(
-                                      'assets/images/avatar.png',
+                                      'assets/images/innocent1.jpg',
                                     ),
                                   ),
                                 ),
