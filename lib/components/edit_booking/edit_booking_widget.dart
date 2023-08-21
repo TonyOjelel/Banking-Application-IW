@@ -216,6 +216,7 @@ class _EditBookingWidgetState extends State<EditBookingWidget> {
                   margin: EdgeInsetsDirectional.fromSTEB(20.0, 4.0, 16.0, 4.0),
                   hidesUnderline: true,
                   isSearchable: false,
+                  isMultiSelect: false,
                 ),
               ),
               Padding(

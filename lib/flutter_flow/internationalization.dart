@@ -2199,181 +2199,181 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
   },
   // List02Products
   {
-    'kqobonaf': {
+    'fxd535ed': {
       'en': 'Find offers...',
       'ar': '',
       'de': '',
       'es': '',
     },
-    '259gtp5e': {
+    'abcyaxqb': {
       'en': 'All',
       'ar': '',
       'de': '',
       'es': '',
     },
-    '0jtpsorh': {
+    'y9pflauh': {
       'en': 'Categories',
       'ar': '',
       'de': '',
       'es': '',
     },
-    'qfb340aq': {
+    'qx3l71mi': {
       'en': 'Food',
       'ar': '',
       'de': '',
       'es': '',
     },
-    'xuwkxf6l': {
+    '4jf68c5c': {
       'en': 'Stocks',
       'ar': '',
       'de': '',
       'es': '',
     },
-    'k8f511e4': {
+    'nalisdir': {
       'en': 'Bonds',
       'ar': '',
       'de': '',
       'es': '',
     },
-    'mk9mgnuy': {
+    '6bes1tde': {
       'en': 'Travel',
       'ar': '',
       'de': '',
       'es': '',
     },
-    'lmwyxze8': {
+    'lo70quuf': {
       'en': 'Crypto currencies',
       'ar': '',
       'de': '',
       'es': '',
     },
-    'dfw1wnsv': {
+    '24j6ys8x': {
       'en': 'Subscriptions',
       'ar': '',
       'de': '',
       'es': '',
     },
-    'ks3jsthc': {
+    'orzr507w': {
       'en': 'Shoes',
       'ar': '',
       'de': '',
       'es': '',
     },
-    '3n35magw': {
+    'nmpv7opj': {
       'en': 'Shopping',
       'ar': '',
       'de': '',
       'es': '',
     },
-    'ka05ggik': {
+    'e15o9zze': {
       'en': 'Categories',
       'ar': '',
       'de': '',
       'es': '',
     },
-    'zdr8twpr': {
+    'eelkyfto': {
       'en': 'Limited Edition',
       'ar': '',
       'de': '',
       'es': '',
     },
-    '1cjefmtq': {
+    'msu9fah6': {
       'en': 'Outerwear',
       'ar': '',
       'de': '',
       'es': '',
     },
-    'tyflpzqi': {
+    'dgjhj0jt': {
       'en': 'Pants',
       'ar': '',
       'de': '',
       'es': '',
     },
-    'pxd90sfp': {
+    'syeuvdzg': {
       'en': 'Shorts Sporty',
       'ar': '',
       'de': '',
       'es': '',
     },
-    'si2xnxl9': {
+    '0xomwa4p': {
       'en': 'Shorts Casual',
       'ar': '',
       'de': '',
       'es': '',
     },
-    'yv11zrhn': {
+    'z5a8op76': {
       'en': 'Casual Tees',
       'ar': '',
       'de': '',
       'es': '',
     },
-    'td4x5pzv': {
+    'w1oyqi08': {
       'en': 'Shoes',
       'ar': '',
       'de': '',
       'es': '',
     },
-    'p1zwa1fp': {
+    'b7t9es4s': {
       'en': 'Investments',
       'ar': '',
       'de': '',
       'es': '',
     },
-    '2ghe8sor': {
+    '49ye8rpi': {
       'en': 'Categories',
       'ar': '',
       'de': '',
       'es': '',
     },
-    'cafo7ilp': {
+    'yu429qea': {
       'en': 'Stocks ',
       'ar': '',
       'de': '',
       'es': '',
     },
-    'qr1sdbsj': {
+    'dd5k30tw': {
       'en': 'Bonds',
       'ar': '',
       'de': '',
       'es': '',
     },
-    'fma7jt0q': {
+    'u2szzyko': {
       'en': 'Crypto Currencies ',
       'ar': '',
       'de': '',
       'es': '',
     },
-    'v7r2knta': {
+    'o7xqofv3': {
       'en': 'Investment Funds',
       'ar': '',
       'de': '',
       'es': '',
     },
-    'dat0zhut': {
+    'oi8165va': {
       'en': 'Fixed Deposit',
       'ar': '',
       'de': '',
       'es': '',
     },
-    'cbai440b': {
+    '9e3qpjwx': {
       'en': 'Interest Rates',
       'ar': '',
       'de': '',
       'es': '',
     },
-    'k87gmt72': {
+    '626ytbaa': {
       'en': 'Shoes',
       'ar': '',
       'de': '',
       'es': '',
     },
-    'y96gl12h': {
+    'nmgdnhkz': {
       'en': 'Inflights and offers',
       'ar': '',
       'de': '',
       'es': '',
     },
-    '1rvaem2y': {
+    'p7xhsa6m': {
       'en': 'Shop',
       'ar': '',
       'de': '',

@@ -451,6 +451,7 @@ class _TransactionEDITWidgetState extends State<TransactionEDITWidget>
                                       20.0, 20.0, 12.0, 20.0),
                                   hidesUnderline: true,
                                   isSearchable: false,
+                                  isMultiSelect: false,
                                 ).animateOnPageLoad(animationsMap[
                                     'dropDownOnPageLoadAnimation']!);
                               },

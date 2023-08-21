@@ -77,7 +77,7 @@ class _List02ProductsWidgetState extends State<List02ProductsWidget>
           ),
           title: Text(
             FFLocalizations.of(context).getText(
-              'y96gl12h' /* Inflights and offers */,
+              'nmgdnhkz' /* Inflights and offers */,
             ),
             style: FlutterFlowTheme.of(context).titleLarge.override(
                   fontFamily: 'Outfit',
@@ -106,7 +106,7 @@ class _List02ProductsWidgetState extends State<List02ProductsWidget>
                       obscureText: false,
                       decoration: InputDecoration(
                         labelText: FFLocalizations.of(context).getText(
-                          'kqobonaf' /* Find offers... */,
+                          'fxd535ed' /* Find offers... */,
                         ),
                         labelStyle:
                             FlutterFlowTheme.of(context).labelMedium.override(
@@ -222,17 +222,17 @@ class _List02ProductsWidgetState extends State<List02ProductsWidget>
                       tabs: [
                         Tab(
                           text: FFLocalizations.of(context).getText(
-                            '259gtp5e' /* All */,
+                            'abcyaxqb' /* All */,
                           ),
                         ),
                         Tab(
                           text: FFLocalizations.of(context).getText(
-                            '3n35magw' /* Shopping */,
+                            'nmpv7opj' /* Shopping */,
                           ),
                         ),
                         Tab(
                           text: FFLocalizations.of(context).getText(
-                            'p1zwa1fp' /* Investments */,
+                            'b7t9es4s' /* Investments */,
                           ),
                         ),
                       ],
@@ -254,7 +254,7 @@ class _List02ProductsWidgetState extends State<List02ProductsWidget>
                                     16.0, 16.0, 0.0, 0.0),
                                 child: Text(
                                   FFLocalizations.of(context).getText(
-                                    '0jtpsorh' /* Categories */,
+                                    'y9pflauh' /* Categories */,
                                   ),
                                   style: FlutterFlowTheme.of(context)
                                       .headlineSmall
@@ -308,7 +308,7 @@ class _List02ProductsWidgetState extends State<List02ProductsWidget>
                                             child: Text(
                                               FFLocalizations.of(context)
                                                   .getText(
-                                                'qfb340aq' /* Food */,
+                                                'qx3l71mi' /* Food */,
                                               ),
                                               style:
                                                   FlutterFlowTheme.of(context)
@@ -363,7 +363,7 @@ class _List02ProductsWidgetState extends State<List02ProductsWidget>
                                                   16.0, 0.0, 0.0, 0.0),
                                           child: Text(
                                             FFLocalizations.of(context).getText(
-                                              'xuwkxf6l' /* Stocks */,
+                                              '4jf68c5c' /* Stocks */,
                                             ),
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyLarge
@@ -414,7 +414,7 @@ class _List02ProductsWidgetState extends State<List02ProductsWidget>
                                                   16.0, 0.0, 0.0, 0.0),
                                           child: Text(
                                             FFLocalizations.of(context).getText(
-                                              'k8f511e4' /* Bonds */,
+                                              'nalisdir' /* Bonds */,
                                             ),
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyLarge
@@ -465,7 +465,7 @@ class _List02ProductsWidgetState extends State<List02ProductsWidget>
                                                   16.0, 0.0, 0.0, 0.0),
                                           child: Text(
                                             FFLocalizations.of(context).getText(
-                                              'mk9mgnuy' /* Travel */,
+                                              '6bes1tde' /* Travel */,
                                             ),
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyLarge
@@ -516,7 +516,7 @@ class _List02ProductsWidgetState extends State<List02ProductsWidget>
                                                   16.0, 0.0, 0.0, 0.0),
                                           child: Text(
                                             FFLocalizations.of(context).getText(
-                                              'lmwyxze8' /* Crypto currencies */,
+                                              'lo70quuf' /* Crypto currencies */,
                                             ),
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyLarge
@@ -567,7 +567,7 @@ class _List02ProductsWidgetState extends State<List02ProductsWidget>
                                                   16.0, 0.0, 0.0, 0.0),
                                           child: Text(
                                             FFLocalizations.of(context).getText(
-                                              'dfw1wnsv' /* Subscriptions */,
+                                              '24j6ys8x' /* Subscriptions */,
                                             ),
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyLarge
@@ -618,7 +618,7 @@ class _List02ProductsWidgetState extends State<List02ProductsWidget>
                                                   16.0, 0.0, 0.0, 0.0),
                                           child: Text(
                                             FFLocalizations.of(context).getText(
-                                              'ks3jsthc' /* Shoes */,
+                                              'orzr507w' /* Shoes */,
                                             ),
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyLarge
@@ -649,7 +649,7 @@ class _List02ProductsWidgetState extends State<List02ProductsWidget>
                                     16.0, 16.0, 0.0, 0.0),
                                 child: Text(
                                   FFLocalizations.of(context).getText(
-                                    'ka05ggik' /* Categories */,
+                                    'e15o9zze' /* Categories */,
                                   ),
                                   style: FlutterFlowTheme.of(context)
                                       .headlineSmall
@@ -703,7 +703,7 @@ class _List02ProductsWidgetState extends State<List02ProductsWidget>
                                             child: Text(
                                               FFLocalizations.of(context)
                                                   .getText(
-                                                'zdr8twpr' /* Limited Edition */,
+                                                'eelkyfto' /* Limited Edition */,
                                               ),
                                               style:
                                                   FlutterFlowTheme.of(context)
@@ -758,7 +758,7 @@ class _List02ProductsWidgetState extends State<List02ProductsWidget>
                                                   16.0, 0.0, 0.0, 0.0),
                                           child: Text(
                                             FFLocalizations.of(context).getText(
-                                              '1cjefmtq' /* Outerwear */,
+                                              'msu9fah6' /* Outerwear */,
                                             ),
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyLarge
@@ -809,7 +809,7 @@ class _List02ProductsWidgetState extends State<List02ProductsWidget>
                                                   16.0, 0.0, 0.0, 0.0),
                                           child: Text(
                                             FFLocalizations.of(context).getText(
-                                              'tyflpzqi' /* Pants */,
+                                              'dgjhj0jt' /* Pants */,
                                             ),
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyLarge
@@ -860,7 +860,7 @@ class _List02ProductsWidgetState extends State<List02ProductsWidget>
                                                   16.0, 0.0, 0.0, 0.0),
                                           child: Text(
                                             FFLocalizations.of(context).getText(
-                                              'pxd90sfp' /* Shorts Sporty */,
+                                              'syeuvdzg' /* Shorts Sporty */,
                                             ),
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyLarge
@@ -911,7 +911,7 @@ class _List02ProductsWidgetState extends State<List02ProductsWidget>
                                                   16.0, 0.0, 0.0, 0.0),
                                           child: Text(
                                             FFLocalizations.of(context).getText(
-                                              'si2xnxl9' /* Shorts Casual */,
+                                              '0xomwa4p' /* Shorts Casual */,
                                             ),
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyLarge
@@ -962,7 +962,7 @@ class _List02ProductsWidgetState extends State<List02ProductsWidget>
                                                   16.0, 0.0, 0.0, 0.0),
                                           child: Text(
                                             FFLocalizations.of(context).getText(
-                                              'yv11zrhn' /* Casual Tees */,
+                                              'z5a8op76' /* Casual Tees */,
                                             ),
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyLarge
@@ -1013,7 +1013,7 @@ class _List02ProductsWidgetState extends State<List02ProductsWidget>
                                                   16.0, 0.0, 0.0, 0.0),
                                           child: Text(
                                             FFLocalizations.of(context).getText(
-                                              'td4x5pzv' /* Shoes */,
+                                              'w1oyqi08' /* Shoes */,
                                             ),
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyLarge
@@ -1044,7 +1044,7 @@ class _List02ProductsWidgetState extends State<List02ProductsWidget>
                                     16.0, 16.0, 0.0, 0.0),
                                 child: Text(
                                   FFLocalizations.of(context).getText(
-                                    '2ghe8sor' /* Categories */,
+                                    '49ye8rpi' /* Categories */,
                                   ),
                                   style: FlutterFlowTheme.of(context)
                                       .headlineSmall
@@ -1089,7 +1089,7 @@ class _List02ProductsWidgetState extends State<List02ProductsWidget>
                                                   16.0, 0.0, 0.0, 0.0),
                                           child: Text(
                                             FFLocalizations.of(context).getText(
-                                              'cafo7ilp' /* Stocks  */,
+                                              'yu429qea' /* Stocks  */,
                                             ),
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyLarge
@@ -1140,7 +1140,7 @@ class _List02ProductsWidgetState extends State<List02ProductsWidget>
                                                   16.0, 0.0, 0.0, 0.0),
                                           child: Text(
                                             FFLocalizations.of(context).getText(
-                                              'qr1sdbsj' /* Bonds */,
+                                              'dd5k30tw' /* Bonds */,
                                             ),
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyLarge
@@ -1191,7 +1191,7 @@ class _List02ProductsWidgetState extends State<List02ProductsWidget>
                                                   16.0, 0.0, 0.0, 0.0),
                                           child: Text(
                                             FFLocalizations.of(context).getText(
-                                              'fma7jt0q' /* Crypto Currencies  */,
+                                              'u2szzyko' /* Crypto Currencies  */,
                                             ),
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyLarge
@@ -1242,7 +1242,7 @@ class _List02ProductsWidgetState extends State<List02ProductsWidget>
                                                   16.0, 0.0, 0.0, 0.0),
                                           child: Text(
                                             FFLocalizations.of(context).getText(
-                                              'v7r2knta' /* Investment Funds */,
+                                              'o7xqofv3' /* Investment Funds */,
                                             ),
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyLarge
@@ -1293,7 +1293,7 @@ class _List02ProductsWidgetState extends State<List02ProductsWidget>
                                                   16.0, 0.0, 0.0, 0.0),
                                           child: Text(
                                             FFLocalizations.of(context).getText(
-                                              'dat0zhut' /* Fixed Deposit */,
+                                              'oi8165va' /* Fixed Deposit */,
                                             ),
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyLarge
@@ -1353,7 +1353,7 @@ class _List02ProductsWidgetState extends State<List02ProductsWidget>
                                             child: Text(
                                               FFLocalizations.of(context)
                                                   .getText(
-                                                'cbai440b' /* Interest Rates */,
+                                                '9e3qpjwx' /* Interest Rates */,
                                               ),
                                               style:
                                                   FlutterFlowTheme.of(context)
@@ -1408,7 +1408,7 @@ class _List02ProductsWidgetState extends State<List02ProductsWidget>
                                                   16.0, 0.0, 0.0, 0.0),
                                           child: Text(
                                             FFLocalizations.of(context).getText(
-                                              'k87gmt72' /* Shoes */,
+                                              '626ytbaa' /* Shoes */,
                                             ),
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyLarge

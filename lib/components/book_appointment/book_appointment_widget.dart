@@ -406,6 +406,7 @@ class _BookAppointmentWidgetState extends State<BookAppointmentWidget>
                           EdgeInsetsDirectional.fromSTEB(20.0, 4.0, 16.0, 4.0),
                       hidesUnderline: true,
                       isSearchable: false,
+                      isMultiSelect: false,
                     ).animateOnPageLoad(
                         animationsMap['dropDownOnPageLoadAnimation']!),
                   ),

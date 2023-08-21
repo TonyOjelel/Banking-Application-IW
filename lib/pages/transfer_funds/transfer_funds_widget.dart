@@ -488,6 +488,7 @@ class _TransferFundsWidgetState extends State<TransferFundsWidget>
                             20.0, 20.0, 12.0, 20.0),
                         hidesUnderline: true,
                         isSearchable: false,
+                        isMultiSelect: false,
                       ).animateOnPageLoad(
                           animationsMap['dropDownOnPageLoadAnimation1']!),
                     ),
@@ -534,6 +535,7 @@ class _TransferFundsWidgetState extends State<TransferFundsWidget>
                             20.0, 20.0, 12.0, 20.0),
                         hidesUnderline: true,
                         isSearchable: false,
+                        isMultiSelect: false,
                       ).animateOnPageLoad(
                           animationsMap['dropDownOnPageLoadAnimation2']!),
                     ),

@@ -272,6 +272,7 @@ class _BookingOldWidgetState extends State<BookingOldWidget> {
                           EdgeInsetsDirectional.fromSTEB(20.0, 4.0, 16.0, 4.0),
                       hidesUnderline: true,
                       isSearchable: false,
+                      isMultiSelect: false,
                     ),
                   ),
                   Padding(

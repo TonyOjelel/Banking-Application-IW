@@ -423,6 +423,7 @@ class _TransactionADDWidgetState extends State<TransactionADDWidget>
                                   20.0, 20.0, 12.0, 20.0),
                               hidesUnderline: true,
                               isSearchable: false,
+                              isMultiSelect: false,
                             ).animateOnPageLoad(
                                 animationsMap['dropDownOnPageLoadAnimation']!);
                           },
